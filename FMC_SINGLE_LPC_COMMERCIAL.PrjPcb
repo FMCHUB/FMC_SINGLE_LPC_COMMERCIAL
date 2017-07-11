@@ -123,6 +123,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFASKEBH
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FMC_SINGLE_LPC_COMMERCIAL\Design Rule Check - FMC_SINGLE_LPC_R1R2R3_COMMERCIAL_AIR_COOLED.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for FMC_SINGLE_LPC_COMMERCIAL\Design Rule Check - FMC_SINGLE_LPC_R2_COMMERCIAL_AIR_COOLED.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for FMC_SINGLE_LPC_COMMERCIAL\Design Rule Check - FMC_SINGLE_LPC_R2R3_COMMERCIAL_AIR_COOLED.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1326,8 +1338,12 @@ ParameterName16=Plated
 ParameterUpdate16=1
 ParameterName17=Solder Type
 ParameterUpdate17=1
-ParameterName18=Vita PartNumber
+ParameterName18=Supplier 1
 ParameterUpdate18=1
+ParameterName19=Supplier Part Number 1
+ParameterUpdate19=1
+ParameterName20=Vita PartNumber
+ParameterUpdate20=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
